@@ -1,4 +1,4 @@
-baseURL = 'http://butterandfly.xyz/'
+baseURL = 'https://butterandfly-hugo.vercel.app/'
 languageCode = 'en-us'
 title = "butterandfly's Playground"
 theme = 'papermod'
