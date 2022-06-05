@@ -1,0 +1,23 @@
+baseURL = 'http://butterandfly.xyz/'
+languageCode = 'en-us'
+title = "butterandfly's Playground"
+theme = 'papermod'
+staticDir = ['static']
+
+[params]
+favicon = "favicon.ico"
+
+[params.homeInfoParams]
+Title = "What is this 🛝 ?"
+Content = '''
+It's a place for code, mathematics, machine learning or any other fun stuff.   
+Have a good time 🎉  !
+'''
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/zeno_lin"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/butterandfly"
